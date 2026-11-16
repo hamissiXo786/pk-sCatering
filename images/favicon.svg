@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#0f2d21" stroke="#d6a443" stroke-width="3"/>
+  <path d="M20 30c-4-1-6-5-4-8 2-4 7-4 9-2 1-4 8-6 11-2 3-2 8 0 8 4 4-1 8 3 5 7-1 2-3 3-5 3v4H22v-4c-1 0-2-1-2-2z" fill="#fbf5e8"/>
+  <text x="32" y="49" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#d6a443">P.K</text>
+</svg>
